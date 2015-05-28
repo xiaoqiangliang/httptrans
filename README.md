@@ -39,7 +39,8 @@ sourceDir 训练集文本地址
     |  |
     
     |  ...
-    
-    
+
+
 targetDir 处理后文本集地址
+
 使用方法在 main中演示
