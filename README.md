@@ -11,6 +11,9 @@ class httptrianned 训练
 class Segmenter 文本预处理，将训练集文本进行分词和去停用词
 sourceDir 训练集文本地址
 训练集文档格式如下
+
+
+
 ...
  |
  +- text_example
