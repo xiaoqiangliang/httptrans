@@ -13,25 +13,31 @@ sourceDir 训练集文本地址
 训练集文档格式如下
 
 
-
 ...
  |
  +- text_example
     |
+    
     +- class1
     |  |
+    
     |  + file1.txt
     |  |
+    
     |  + file2.txt
     |  |
     |  ...
-    |
+    
+    
     +- class2
     |  |
+    
     |  + another_file1.txt
     |  |
+    
     |  + another_file2.txt
     |  |
+    
     |  ...
     
     
